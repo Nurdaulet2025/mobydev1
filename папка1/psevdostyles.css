@@ -1,0 +1,66 @@
+.button:hover {
+    background-color: darkblue;
+    color:beige;
+}
+
+.input:focus {
+    border: 5px solid;
+    border-color: blue;
+}
+
+li:first-child {
+    font-style: italic;
+    color: gray
+}
+
+li:last-child {
+    color: orangered
+}
+
+.div1 {
+    background-color: aqua;
+}
+
+.div2 {
+    background-color: yellow;
+}
+
+.div3 {
+    background-color: lime;
+}
+
+.a1:hover {
+    color:black;
+}
+
+.a2:hover {
+    color: lime;
+}
+
+.a3:hover {
+    color:white;
+}
+
+.p1:nth-child(odd) {
+    color: red;
+    font-style:italic;
+}
+
+.p2:nth-child(even) {
+    color: gray;
+    font-weight:bold;
+}
+
+.p3:nth-child(odd) {
+    color: darkblue;
+}
+
+
+
+.p4:hover {
+    color:blue;
+} 
+
+.p4:last-child:active {
+    color: blue;
+}

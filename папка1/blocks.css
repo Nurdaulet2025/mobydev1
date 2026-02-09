@@ -1,0 +1,23 @@
+.block {
+    background-color: lightblue;
+}
+
+img {
+    display: block;
+}
+
+h1 {
+    display: inline;
+}
+
+div {
+    display: block;
+}
+
+p {
+    display: block;
+}
+
+a {
+    display: block;
+}

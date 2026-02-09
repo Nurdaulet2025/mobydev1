@@ -1,0 +1,40 @@
+.well {
+    position: static;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+.n1 {
+    position: relative;
+    top: 10px;
+    left: 200px;
+    background-color: green;
+    border: 1px solid black;
+}
+
+.n2 {
+    background-color: red;
+}
+
+.n22 {
+    position: absolute;
+    top:90px;
+    right:30px;
+}
+
+.n3 {
+    background-color:blueviolet;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+}
+
+.n4 {
+    position: sticky;
+    top: 10px;
+}
+
+.n5 {
+    background-color: red;
+    height: 10000px;
+}

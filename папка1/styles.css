@@ -1,0 +1,26 @@
+p {
+    color: blue;
+}
+
+.cl {
+    font-weight: 1000;
+}
+
+#well {
+    color: red;
+    text-align: center;
+}
+
+
+p {
+    color: green;
+}
+
+.cl {
+    font-weight: 10000;
+}
+
+#well {
+    color: yellow;
+    text-align: right;
+}

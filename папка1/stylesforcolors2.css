@@ -1,0 +1,50 @@
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+.box1 {
+    width: 15rem;
+    height: 70%;
+    font-size: 2em;
+    color: black;
+    background-color: yellow;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
+
+
+.box2 {
+    width:200px;
+    height:200px;
+    font-size: 20px;
+    color: #0000FF;
+    background-color: #C0C0C0
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    color: rgb(203, 234, 8);
+    background-color: rgb(0, 0, 0)
+}
+
+.box4 {
+    width: 200px;
+    height: 200px;
+    font-size: 40px;
+    color: rgba(100, 78, 255, 0.5);
+    background-color: rgba(0, 255, 68, 0.3)
+}
