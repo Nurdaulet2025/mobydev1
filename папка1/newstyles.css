@@ -20,6 +20,7 @@ div {
     padding: 10px;
     margin: 200px;
     border: 6px solid green;    
+    overflow:hidden;
 }
 
 #first {
