@@ -51,8 +51,9 @@ li:last-child {
     font-weight:bold;
 }
 
-.p3:nth-child(odd) {
-    color: darkblue;
+.p3:nth-child(odd):hover {
+    color: pink;
+    font-size: 20px;
 }
 
 
