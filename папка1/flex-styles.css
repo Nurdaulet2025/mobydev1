@@ -52,3 +52,101 @@
 .size3 {
     flex: 2 3 40%
 }
+
+
+.bigblock {
+    display: flex;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
+
+.littleblock1 {
+    background-color: red;
+    flex: 0 0 50%;
+}
+
+.littleblock2 {
+    background-color: blue;
+    flex: 1 0 0;
+}
+
+.littleblock3 {
+    background-color: green;
+    flex: 0 0 100px;
+}
+
+.header {
+    display: flex;
+    background-color: gray;
+    height: 100px;
+    width: 1200px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cards {
+    display: flex;
+    border: 3px solid black;
+    height: 1000px;
+    width: 1000px;
+    margin-top: 100px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.card1 {
+    background-color: red;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card2 {
+    background-color: blue;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card3 {
+    background-color: green;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card4 {
+    background-color: yellow;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card5 {
+    background-color: aqua;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card6 {
+    background-color: lime;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card7 {
+    background-color: pink;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card8 {
+    background-color: purple;
+    flex: 0 0 30%;
+    height: 30%;
+}
+
+.card9 {
+    background-color: orange;
+    flex: 0 0 30%;
+    height: 30%;
+}
