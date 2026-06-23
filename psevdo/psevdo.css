@@ -1,0 +1,52 @@
+.p1::before {
+    content: "Текст до основного текста";
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+
+.p2::before {
+    content: "Текст до основного текста";
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+}
+
+.p3::before {
+    content: "Текст до основного текста";
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+}
+
+.h1::after {
+    content: "+-=";
+    color:purple;    
+}
+
+.h2::after {
+    content: "-_-";
+    color:red;    
+}
+
+.box {
+   padding: 20px;
+   border: 1px solid #ccc;
+   position: relative;
+}
+
+.box::before {
+   content: "____________________________________________________________";
+   display: block;
+   color: #007bff;
+   margin-bottom: 20px;
+}
+
+.box::after {
+   content: "____________________________________________________________";
+   display: block;
+   color: #007bff;
+}
